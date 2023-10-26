@@ -40,6 +40,9 @@ export default function App() {
     };
   }, []);
 
+  console.log({ expoPushToken });
+  console.log({ notification });
+
   return (
     <View
       style={{

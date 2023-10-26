@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315282718380",
+    "project_id": "test-notification-for-android",
+    "storage_bucket": "test-notification-for-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315282718380:android:91157021a49ece9d92e909",
+        "android_client_info": {
+          "package_name": "com.travel_and_tourism_group_co.ExpoNotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVNP6riyyhooVB5lWR3sOpWgC5Hiu9HbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
